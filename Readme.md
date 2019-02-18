@@ -1,4 +1,4 @@
-# USO-DE-TECNOLOGIA-ASSISTIVA-PARA-GUIAR-ALUNOS-COM-DEFICIENCIA-VISUAL-NO-CAMPUS-SENAC-SANTO-AMARO
+# WI-FI-Fingerprints-with-Machine-Learning
 
 This project implements indoor navigation using Wi-Fi Fingerprints collected and Machine Learning models to recognize current user position and guide it to your destination. In order to achieve the objective a series of steps are needed.
 
