@@ -1,0 +1,649 @@
+{
+    "graph":{
+        "type": "rooms",
+        "nodes": [
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 79
+                },
+                "id": 118,
+                "label": "A118"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 168
+                },
+                "id": 119,
+                "label": "A119"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 75
+                },
+                "id": 120,
+                "label": "A120"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 261
+                },
+                "id": 121,
+                "label": "A121"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 262
+                },
+                "id": 123,
+                "label": "A123"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 262
+                },
+                "id": 125,
+                "label": "A125"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 166
+                },
+                "id": 126,
+                "label": "B126"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 263
+                },
+                "id": 127,
+                "label": "B127"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 178
+                },
+                "id": 128,
+                "label": "B128"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 164
+                },
+                "id": 129,
+                "label": "B129"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 171
+                },
+                "id": 130,
+                "label": "B130"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 52
+                },
+                "id": 131,
+                "label": "C131"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 261
+                },
+                "id": 132,
+                "label": "C132"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 273
+                },
+                "id": 133,
+                "label": "C133"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 260
+                },
+                "id": 134,
+                "label": "C134"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 0
+                },
+                "id": 135,
+                "label": "C135"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 348
+                },
+                "id": 166,
+                "label": "E166"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 347
+                },
+                "id": 167,
+                "label": "E167"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 346
+                },
+                "id": 168,
+                "label": "E168"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 346
+                },
+                "id": 169,
+                "label": "E169"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 0
+                },
+                "id": 170,
+                "label": "E-C"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 0
+                },
+                "id": 170,
+                "label": "C-B"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 0
+                },
+                "id": 171,
+                "label": "B-A"
+            },
+            {
+                "metadata": {
+                    "floor": 0,
+                    "direction": 0
+                },
+                "id": 171,
+                "label": "A-E"
+            }
+        ],
+        "edges":[
+            {
+                "source": "A-E",
+                "target": "E169",
+                "metadata": {
+                    "weight": 4,
+                    "type": 74
+                }
+            },
+            {
+                "source": "A-E",
+                "target": "A119",
+                "metadata": {
+                    "weight": 1,
+                    "type": 150
+                }
+            },
+            {
+                "source": "A119",
+                "target": "A118",
+                "metadata": {
+                    "weight": 2,
+                    "type": 0
+                }
+            },
+            {
+                "source": "A119",
+                "target": "A-E",
+                "metadata": {
+                    "weight": 1,
+                    "type": 339
+                }
+            },
+            {
+                "source": "A119",
+                "target": "A121",
+                "metadata": {
+                    "weight": 1,
+                    "type": "E"
+                }
+            },
+            {
+                "source": "A121",
+                "target": "A118",
+                "metadata": {
+                    "weight": 2,
+                    "type": 0
+                }
+            },
+            {
+                "source": "A121",
+                "target": "A119",
+                "metadata": {
+                    "weight": 1,
+                    "type": 81
+                }
+            },
+            {
+                "source": "A121",
+                "target": "A123",
+                "metadata": {
+                    "weight": 1,
+                    "type": 171
+                }
+            },
+            {
+                "source": "A123",
+                "target": "A120",
+                "metadata": {
+                    "weight": 2,
+                    "type": 96
+                }
+            },
+            {
+                "source": "A123",
+                "target": "A121",
+                "metadata": {
+                    "weight": 1,
+                    "type": 358
+                }
+            },
+            {
+                "source": "A123",
+                "target": "A125",
+                "metadata": {
+                    "weight": 1,
+                    "type": 185
+                }
+            },
+            {
+                "source": "A125",
+                "target": "B-A",
+                "metadata": {
+                    "weight": 1,
+                    "type": 82
+                }
+            },
+            {
+                "source": "A125",
+                "target": "A123",
+                "metadata": {
+                    "weight": 1,
+                    "type": 344
+                }
+            },
+            {
+                "source": "A118",
+                "target": "A119",
+                "metadata": {
+                    "weight": 2,
+                    "type": 253
+                }
+            },
+            {
+                "source": "A118",
+                "target": "A-E",
+                "metadata": {
+                    "weight": 1,
+                    "type": 347
+                }
+            },
+            {
+                "source": "A118",
+                "target": "A120",
+                "metadata": {
+                    "weight": 1,
+                    "type": 171
+                }
+            },
+            {
+                "source": "A120",
+                "target": "A123",
+                "metadata": {
+                    "weight": 2,
+                    "type": 252
+                }
+            },
+            {
+                "source": "A120",
+                "target": "A118",
+                "metadata": {
+                    "weight": 1,
+                    "type": 337
+                }
+            },
+            {
+                "source": "A120",
+                "target": "B-A",
+                "metadata": {
+                    "weight": 1,
+                    "type": 163
+                }
+            },
+            {
+                "source": "B-A",
+                "target": "A120",
+                "metadata": {
+                    "weight": 1,
+                    "type": 339
+                }
+            },
+            {
+                "source": "B-A",
+                "target": "B126",
+                "metadata": {
+                    "weight": 1,
+                    "type": 75
+                }
+            },
+            {
+                "source": "B-A",
+                "target": "A125",
+                "metadata": {
+                    "weight": 1,
+                    "type": 0
+                }
+            },
+            {
+                "source": "B126",
+                "target": "B127",
+                "metadata": {
+                    "weight": 1,
+                    "type": 72
+                }
+            },
+            {
+                "source": "B126",
+                "target": "B-A",
+                "metadata": {
+                    "weight": 1,
+                    "type": 260
+                }
+            },
+            {
+                "source": "B127",
+                "target": "B128",
+                "metadata": {
+                    "weight": 1,
+                    "type": 68
+                }
+            },
+            {
+                "source": "B127",
+                "target": "B126",
+                "metadata": {
+                    "weight": 1,
+                    "type": 266
+                }
+            },
+            {
+                "source": "B128",
+                "target": "B129",
+                "metadata": {
+                    "weight": 1,
+                    "type": 92
+                }
+            },
+            {
+                "source": "B128",
+                "target": "B127",
+                "metadata": {
+                    "weight": 1,
+                    "type": 263
+                }
+            },
+            {
+                "source": "B129",
+                "target": "B130",
+                "metadata": {
+                    "weight": 1,
+                    "type": 77
+                }
+            },
+            {
+                "source": "B129",
+                "target": "B128",
+                "metadata": {
+                    "weight": 1,
+                    "type": 248
+                }
+            },
+            {
+                "source": "B130",
+                "target": "C-B",
+                "metadata": {
+                    "weight": 2,
+                    "type": 80
+                }
+            },
+            {
+                "source": "C-B",
+                "target": "B130",
+                "metadata": {
+                    "weight": 2,
+                    "type": 245
+                }
+            },
+            {
+                "source": "B130",
+                "target": "B129",
+                "metadata": {
+                    "weight": 1,
+                    "type": 255
+                }
+            },
+            {
+                "source": "C131",
+                "target": "C133",
+                "metadata": {
+                    "weight": 1,
+                    "type": 349
+                }
+            },
+            {
+                "source": "C133",
+                "target": "C131",
+                "metadata": {
+                    "weight": 1,
+                    "type": 147
+                }
+            },
+            {
+                "source": "C133",
+                "target": "C135",
+                "metadata": {
+                    "weight": 1,
+                    "type": 338
+                }
+            },
+            {
+                "source": "C133",
+                "target": "C-B",
+                "metadata": {
+                    "weight": 1,
+                    "type": 271
+                }
+            },
+            {
+                "source": "C-B",
+                "target": "C133",
+                "metadata": {
+                    "weight": 1,
+                    "type": 73
+                }
+            },
+            {
+                "source": "C135",
+                "target": "C134",
+                "metadata": {
+                    "weight": 2,
+                    "type": 242
+                }
+            },
+            {
+                "source": "C135",
+                "target": "C133",
+                "metadata": {
+                    "weight": 1,
+                    "type": 159
+                }
+            },
+            {
+                "source": "C135",
+                "target": "E-C",
+                "metadata": {
+                    "weight": 1,
+                    "type": 329
+                }
+            },
+            {
+                "source": "C134",
+                "target": "C132",
+                "metadata": {
+                    "weight": 1,
+                    "type": 165
+                }
+            },
+            {
+                "source": "C134",
+                "target": "E-C",
+                "metadata": {
+                    "weight": 1,
+                    "type": 166
+                }
+            },
+            {
+                "source": "C134",
+                "target": "C135",
+                "metadata": {
+                    "weight": 2,
+                    "type": 72
+                }
+            },
+            {
+                "source": "C132",
+                "target": "C134",
+                "metadata": {
+                    "weight": 1,
+                    "type": 336
+                }
+            },
+            {
+                "source": "C132",
+                "target": "C-B",
+                "metadata": {
+                    "weight": 1,
+                    "type": 167
+                }
+            },
+            {
+                "source": "C-B",
+                "target": "C132",
+                "metadata": {
+                    "weight": 1,
+                    "type": 331
+                }
+            },
+            {
+                "source": "E-C",
+                "target": "E166",
+                "metadata": {
+                    "weight": 4,
+                    "type": 258
+                }
+            },
+            {
+                "source": "E166",
+                "target": "E-C",
+                "metadata": {
+                    "weight": 4,
+                    "type": 82
+                }
+            },
+            {
+                "source": "E166",
+                "target": "E167",
+                "metadata": {
+                    "weight": 1,
+                    "type": 255
+                }
+            },
+            {
+                "source": "E167",
+                "target": "E166",
+                "metadata": {
+                    "weight": 1,
+                    "type": 80
+                }
+            },
+            {
+                "source": "E167",
+                "target": "E168",
+                "metadata": {
+                    "weight": 1,
+                    "type": 256
+                }
+            },
+            {
+                "source": "E168",
+                "target": "E167",
+                "metadata": {
+                    "weight": 1,
+                    "type": 78
+                }
+            },
+            {
+                "source": "E168",
+                "target": "E169",
+                "metadata": {
+                    "weight": 1,
+                    "type": 254
+                }
+            },
+            {
+                "source": "E169",
+                "target": "E168",
+                "metadata": {
+                    "weight": 4,
+                    "type": 72
+                }
+            },
+            {
+                "source": "E169",
+                "target": "A-E",
+                "metadata": {
+                    "weight": 4,
+                    "type": 255
+                }
+            }
+        ]
+    }
+}

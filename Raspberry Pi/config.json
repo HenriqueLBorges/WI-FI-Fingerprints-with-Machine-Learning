@@ -1,0 +1,29 @@
+{
+    "debug":true,
+    "disableGetFingerprints": true,
+    "api_host": "http://localhost:5000",
+    "keyboard": true,
+    "updated": "01/01/2018",
+    "declination": -16,
+    "lat": -23.5489,
+    "lon": -46.6388,
+    "disableIntialSearch": true,
+    "forbidenMacAddresses": ["B8:27:EB:A6:7B:C5", "B8:27:EB:24:1B:E1", "B8:27:EB:01:F8:EB"],
+    "compass_rose": {
+        "N": {"min": 0, "max": 22.5},
+        "NNE": {"min": 22.5, "max": 45},
+        "NE": {"min": 45, "max": 67.5},
+        "ENE": {"min": 67.5, "max": 90},
+        "E": {"min": 90, "max": 112.5},
+        "ESE": {"min": 112.5, "max": 135},
+        "SE": {"min": 135, "max": 157.5},
+        "SSE": {"min": 157.5, "max": 180},
+        "S": {"min": 180, "max": 202.5},
+        "SSW": {"min": 202.5, "max": 247.5},
+        "SW": {"min": 247.5, "max": 270},
+        "W": {"min": 270, "max": 292.5},
+        "WNW": {"min": 292.5, "max": 315},
+        "NW": {"min": 315, "max": 337.5},
+        "NNW": {"min": 337.5, "max": 359}
+    }
+}

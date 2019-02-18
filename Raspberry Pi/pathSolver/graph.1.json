@@ -1,0 +1,1616 @@
+{
+    "graph":{
+        "type": "rooms",
+        "nodes": [
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 101,
+                "label": "A101"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 102,
+                "label": "A102"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 103,
+                "label": "A103"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 104,
+                "label": "A104"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 105,
+                "label": "A105"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 106,
+                "label": "A106"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 107,
+                "label": "A107"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 108,
+                "label": "A108"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 109,
+                "label": "A109"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 110,
+                "label": "A110"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 111,
+                "label": "A111"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 112,
+                "label": "A112"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 113,
+                "label": "A113"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 114,
+                "label": "A114"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 115,
+                "label": "A115"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 116,
+                "label": "A116"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 117,
+                "label": "A117"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 118,
+                "label": "A118"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 119,
+                "label": "A119"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 120,
+                "label": "A120"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 121,
+                "label": "A121"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 122,
+                "label": "A122"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 123,
+                "label": "A123"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 125,
+                "label": "A125"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 126,
+                "label": "B126"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 127,
+                "label": "B127"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 128,
+                "label": "B128"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 129,
+                "label": "B129"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 130,
+                "label": "B130"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 131,
+                "label": "C131"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 132,
+                "label": "C132"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 133,
+                "label": "C133"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 134,
+                "label": "C134"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 135,
+                "label": "C135"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 136,
+                "label": "C136"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 137,
+                "label": "C137"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 138,
+                "label": "C138"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 139,
+                "label": "C139"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 140,
+                "label": "C140"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 141,
+                "label": "C141"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 142,
+                "label": "C142"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 143,
+                "label": "C143"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 144,
+                "label": "C144"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 145,
+                "label": "C145"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 146,
+                "label": "C146"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 147,
+                "label": "C147"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 148,
+                "label": "C148"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 149,
+                "label": "C149"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 150,
+                "label": "C150"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 151,
+                "label": "C151"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 152,
+                "label": "D152"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 153,
+                "label": "D153"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 154,
+                "label": "D154"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 155,
+                "label": "D155"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 156,
+                "label": "D156"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 157,
+                "label": "D157"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 158,
+                "label": "D158"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 159,
+                "label": "D159"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 160,
+                "label": "D160"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 161,
+                "label": "D161"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 163,
+                "label": "D163"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 166,
+                "label": "E166"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 167,
+                "label": "E167"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 168,
+                "label": "E168"
+            },
+            {
+                "metadata": {
+                    "floor": 0
+                },
+                "id": 169,
+                "label": "E169"
+            }
+        ],
+        "edges":[
+            {
+                "source": "A101",
+                "target": "A102",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A101",
+                "target": "A103",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A103",
+                "target": "A104",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A103",
+                "target": "A101",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A103",
+                "target": "A105",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A105",
+                "target": "A106",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A105",
+                "target": "A103",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A105",
+                "target": "A107",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A107",
+                "target": "A108",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A107",
+                "target": "A105",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A107",
+                "target": "A109",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A102",
+                "target": "A101",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A102",
+                "target": "A104",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A104",
+                "target": "A103",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A104",
+                "target": "A102",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A104",
+                "target": "A106",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A106",
+                "target": "A105",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A106",
+                "target": "A104",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A106",
+                "target": "A108",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A108",
+                "target": "A107",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A108",
+                "target": "A106",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A108",
+                "target": "A112",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A109",
+                "target": "A112",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A109",
+                "target": "A107",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A109",
+                "target": "A111",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A111",
+                "target": "A114",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A111",
+                "target": "A109",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A111",
+                "target": "A113",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A115",
+                "target": "A116",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A115",
+                "target": "A113",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A115",
+                "target": "A117",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A117",
+                "target": "E169",
+                "metadata": {
+                    "weight": 4,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A117",
+                "target": "A115",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A117",
+                "target": "A119",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A112",
+                "target": "A109",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A112",
+                "target": "A108",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A112",
+                "target": "A114",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A114",
+                "target": "A111",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A114",
+                "target": "A112",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A114",
+                "target": "A116",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A116",
+                "target": "A113",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A116",
+                "target": "A114",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A116",
+                "target": "A118",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A119",
+                "target": "A118",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A119",
+                "target": "A117",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A119",
+                "target": "A121",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A121",
+                "target": "A118",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A121",
+                "target": "A119",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A121",
+                "target": "A123",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A123",
+                "target": "A120",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A123",
+                "target": "A121",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A123",
+                "target": "A125",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A125",
+                "target": "B126",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "A125",
+                "target": "A123",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A118",
+                "target": "A119",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A118",
+                "target": "A116",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A118",
+                "target": "A120",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "A120",
+                "target": "A123",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "A120",
+                "target": "A118",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "A120",
+                "target": "B126",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "B126",
+                "target": "B127",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "B126",
+                "target": "A125",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "B127",
+                "target": "B128",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "B127",
+                "target": "B126",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "B128",
+                "target": "B129",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "B128",
+                "target": "B127",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "B129",
+                "target": "B130",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "B129",
+                "target": "B127",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "B129",
+                "target": "C132",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "B130",
+                "target": "C131",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "B130",
+                "target": "B129",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C131",
+                "target": "B130",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C131",
+                "target": "C133",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C133",
+                "target": "C135",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C135",
+                "target": "C134",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C135",
+                "target": "C137",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C134",
+                "target": "C132",
+                "metadata": {
+                    "weight": 2,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C132",
+                "target": "B130",
+                "metadata": {
+                    "weight": 2,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C137",
+                "target": "E166",
+                "metadata": {
+                    "weight": 4,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "E166",
+                "target": "C137",
+                "metadata": {
+                    "weight": 4,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "E166",
+                "target": "E167",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "E167",
+                "target": "E166",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "E167",
+                "target": "E168",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "E168",
+                "target": "E167",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "E168",
+                "target": "E169",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "E169",
+                "target": "A117",
+                "metadata": {
+                    "weight": 4,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C137",
+                "target": "C139",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C137",
+                "target": "C135",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C139",
+                "target": "C136",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C139",
+                "target": "C141",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C139",
+                "target": "C137",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C141",
+                "target": "C138",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C141",
+                "target": "C143",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C141",
+                "target": "C139",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C143",
+                "target": "C140",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C143",
+                "target": "C145",
+                "metadata": {
+                    "weight": 2,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C143",
+                "target": "C141",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C140",
+                "target": "C143",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "C140",
+                "target": "C146",
+                "metadata": {
+                    "weight": 4,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C140",
+                "target": "138",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "138",
+                "target": "C141",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "138",
+                "target": "C140",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "138",
+                "target": "C136",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C136",
+                "target": "C139",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "C136",
+                "target": "C138",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C136",
+                "target": "C134",
+                "metadata": {
+                    "weight": 2,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C145",
+                "target": "C143",
+                "metadata": {
+                    "weight": 2,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C145",
+                "target": "C147",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C147",
+                "target": "C146",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C147",
+                "target": "C149",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C147",
+                "target": "C145",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C149",
+                "target": "C148",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C149",
+                "target": "C147",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C149",
+                "target": "C151",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C151",
+                "target": "C150",
+                "metadata": {
+                    "weight": 2,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "C151",
+                "target": "C149",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C151",
+                "target": "D154",
+                "metadata": {
+                    "weight": 4,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C150",
+                "target": "C151",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "C150",
+                "target": "C148",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C150",
+                "target": "D154",
+                "metadata": {
+                    "weight": 4,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C148",
+                "target": "C149",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "C148",
+                "target": "C146",
+                "metadata": {
+                    "weight": 1,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C148",
+                "target": "C150",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "C146",
+                "target": "C147",
+                "metadata": {
+                    "weight": 2,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "C146",
+                "target": "C140",
+                "metadata": {
+                    "weight": 4,
+                    "type": "east"
+                }
+            },
+            {
+                "source": "C146",
+                "target": "C148",
+                "metadata": {
+                    "weight": 1,
+                    "type": "west"
+                }
+            },
+            {
+                "source": "D154",
+                "target": "D153",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D154",
+                "target": "D155",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D153",
+                "target": "D152",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D153",
+                "target": "D154",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D152",
+                "target": "D153",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D155",
+                "target": "D154",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D155",
+                "target": "D156",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D156",
+                "target": "D155",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D156",
+                "target": "D157",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D157",
+                "target": "D156",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D157",
+                "target": "D158",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D158",
+                "target": "D157",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D158",
+                "target": "D159",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D159",
+                "target": "D158",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D159",
+                "target": "D160",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D160",
+                "target": "D159",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            },
+            {
+                "source": "D160",
+                "target": "D161",
+                "metadata": {
+                    "weight": 1,
+                    "type": "south"
+                }
+            },
+            {
+                "source": "D161",
+                "target": "D160",
+                "metadata": {
+                    "weight": 1,
+                    "type": "north"
+                }
+            }
+        ]
+    }
+}
